@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/021bbd2d-f90b-4cea-9e98-b15cbb92a262
+
 # zar-oos-coontrol-gui-for-hyprland
 cat << 'EOF' > ~/ZarOS-Engine/README.md
 # ⚡ ZarOS Studio
