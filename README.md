@@ -1,0 +1,1 @@
+# zar-oos-coontrol-gui-for-hyprland
